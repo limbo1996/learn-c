@@ -6,6 +6,6 @@ int main(void)
 
     printf("I am a simple ");
     printf("computer. \n");
-    printf("My favorite number is %d because it is first.\n", num);
+    printf("My favorite number is %d because it is first.\n", num);/* %d指示输出num值的位置和形式 */
     return 0 ;
 }
